@@ -80,5 +80,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #2E2532;
+    background-color: #CEFF1A;
+}
+
+.grabbing:hover {
+    cursor: grabbing
 }
