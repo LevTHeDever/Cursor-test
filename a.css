@@ -1,3 +1,4 @@
+
 body{
     background-color: rgb(177, 245, 245);
     height: 100vh;
@@ -98,3 +99,40 @@ body{
 .colsize:hover {
     cursor: col-resize;
 }
+
+.rowsize:hover {
+    cursor: row-resize;
+}
+
+.nsize:hover {
+    cursor: n-resize;
+}
+.progress:hover {
+    cursor: progress;
+}
+
+.cell:hover {
+    cursor: cell;
+}
+
+.esize:hover {
+    cursor: e-resize;
+}
+
+.sresize:hover {
+    cursor: s-resize;
+} 
+
+.wsize:hover {
+    cursor: w-resize;
+}
+
+.nesize:hover {
+    cursor: ne-resize;
+}
+
+.nwsize:hover {
+    cursor: nw-resize;
+} 
+
+
