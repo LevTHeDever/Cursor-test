@@ -154,3 +154,19 @@ body{
 .swsize:hover {
     cursor: sw-resize;
 }
+
+.ewsize:hover {
+    cursor: ew-resize;
+}
+
+.ns_size:hover {
+    cursor: ns-resize;
+}
+
+.neswsize:hover {
+    cursor: nesw-resize;
+}
+
+.nwsesize:hover {
+    cursor: nwse-resize;
+}
