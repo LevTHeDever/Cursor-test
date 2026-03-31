@@ -170,3 +170,7 @@ body{
 .nwsesize:hover {
     cursor: nwse-resize;
 }
+
+.none {
+    cursor: none;
+}
