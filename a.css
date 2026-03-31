@@ -16,7 +16,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #2E2532;
+    background-color: #CEFF1A;
 }
 
 .wait:hover {
@@ -85,4 +85,12 @@ body{
 
 .grabbing:hover {
     cursor: grabbing
+}
+
+.all-scroll:hover {
+    cursor: all-scroll;
+}
+
+.text:hover {
+    cursor: text;
 }
