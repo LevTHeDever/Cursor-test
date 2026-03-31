@@ -95,6 +95,6 @@ body{
     cursor: text;
 }
 
-.colsize {
+.colsize:hover {
     cursor: col-resize;
 }
